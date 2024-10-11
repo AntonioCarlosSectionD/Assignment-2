@@ -1,0 +1,10 @@
+# Assignment 2
+The landing website had the intended desire to look like the user interface for computers seen in the fictional universe "Warhammer 40,000."
+This can be seen in the opening cutscene in the game "Space Marine 2" released in September 2024. 
+The intended general look for the UI, in comparison to real life, would be like that of early graphical computers; featuring a dark screen with boxes for content bordered with a light green. 
+The effect of early computer screens was magnified with the use of the "text-shadow" element. On the green text, a "text-shadow" consisting of an opaque blue was added to further emulate the one seen in the Space Marine 2 opening scene.
+The landing website shows the fictional world of "Lucius" showing what would be new viewers to basic information of its existance and what it does. The landing page would have links at the footer of the landing website in the form of buttons. These buttons would link to wiki pages that would show more information on the fiction faction that owns the landing website, as well as link to the official Warhammer 40,000 webstore.
+Information such as "What Are Forge Worlds" and "Why We Stand Out" features an image along with a long piece of explanation. Because of this, a card with the content being placed side by side was necessary.
+Information such as "Our Defenses" and "What We Make" features a list of images along with a shorter list of explanations and other content. Because of this, the cards had their infromation placed under the image and the cards themselves were placed side by side.
+Media queries were added that modified the size and orientation of text and cards based on the size of the viewport.
+I believe that I emulated successfully what a website from the fictional universe Warhammer 40,000 would look like.
